@@ -48,7 +48,7 @@ It helps businesses gain insights into key metrics and make data-driven decision
 
 ## 📸 Dashboard Preview
 
-![Dashboard](your-image-name.png)
+![Dashboard](dashboard.png)
 
 ---
 
